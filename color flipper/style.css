@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 500px auto;
+    text-align: center;
+}
+.container button{
+    background-color: black;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+}
+.container button:hover{
+    background-color: blueviolet;
+    transform: 0.5s;
+}
